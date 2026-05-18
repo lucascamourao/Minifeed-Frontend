@@ -22,7 +22,7 @@ git add -A
 git commit -m "Deploy"
 
 # Forçar o push para a branch gh-pages do repositório remoto
-git push -f https://github.com/<USERNAME>/<REPO>.git gh-pages
+git push -f https://lucascamourao.github.io/Minifeed-Frontend/.git gh-pages
 
 # Voltar para o diretório anterior
 cd -
